@@ -67,3 +67,16 @@ C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.Ow
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\obj\Debug\gk_teamcity_test.csprojResolveAssemblyReference.cache
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\obj\Debug\gk_teamcity_test.dll
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\obj\Debug\gk_teamcity_test.pdb
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\ApplicationInsights.config
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.Web.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.WindowsServer.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.ApplicationInsights.dll
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.Web.xml
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.AI.WindowsServer.xml
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test\bin\Microsoft.ApplicationInsights.xml

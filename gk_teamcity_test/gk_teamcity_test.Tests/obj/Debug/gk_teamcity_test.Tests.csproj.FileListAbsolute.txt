@@ -53,3 +53,4 @@ C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test.Tests\bin\Debug\
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test.Tests\obj\Debug\gk_teamcity_test.Tests.csprojResolveAssemblyReference.cache
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test.Tests\obj\Debug\gk_teamcity_test.Tests.dll
 C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test.Tests\obj\Debug\gk_teamcity_test.Tests.pdb
+C:\Repo\Test\gk_teamcity_test\gk_teamcity_test\gk_teamcity_test.Tests\bin\Debug\ApplicationInsights.config
